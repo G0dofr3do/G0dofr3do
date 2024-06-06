@@ -1,5 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🩷💙
+![](https://c.tenor.com/RAp5YpmEH5EAAAAC/tenor.gif)
+## Meu nome é Gustavo
 
+Estou fazendo curso no Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+00001121424600sp@al.educacao.sp.gov.br
 <!--
 **G0dofr3do/G0dofr3do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
