@@ -1,5 +1,6 @@
 ## Boas vindas ao meu perfil 🩷💙
-![https://c.tenor.com/RAp5YpmEH5EAAAAC/tenor.gif]
+![![Uploading RYOKI TENKAI.gif…]()
+]
 ## Meu nome é Gustavo
 
 Estou fazendo curso no Alura
